@@ -18,6 +18,19 @@ hexo-theme-yilia-plus
 
 ![](./images/qrcode.png)
 
+
+## 本地预览
+```bash
+npm install
+hexo s -g
+```
+
+## 编译部署
+```bash
+hexo g
+//生成的public文件夹的内容上传至GitHub，或者使用 hexo d 进行配置自动部署
+```
+
 ----------
 
 ## 关于主题：
